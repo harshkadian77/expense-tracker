@@ -1,4 +1,5 @@
 # Expense Tracker / Personal Finance Dashboard
+To see the deployed app use the given link - https://expense-tracker-five-smoky-75.vercel.app
 
 A full-stack expense tracker with data visualization, built to demonstrate:
 - MongoDB **aggregation pipelines** (monthly summaries, category breakdowns, trends)
